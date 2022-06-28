@@ -1,2 +1,4 @@
 # alstom_git
-Coursera alstom traingin for git
+Coursera alstom training for git
+I am editing the README file. 
+Adding some more details about the project description.
